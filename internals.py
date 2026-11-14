@@ -1,1 +1,1 @@
-print(" virat kohli")
+print(" v kohli")
